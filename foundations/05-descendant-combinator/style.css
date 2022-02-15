@@ -1,0 +1,42 @@
+/*
+// class within type
+div .text{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+}
+
+*/
+
+/*
+div p{
+    //type within type
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+}
+*/
+
+
+/*
+.container .text {
+    //class within class
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+  }
+*/
+
+
+/*follwoing will not work, because ancestor go first*/
+/* 
+.text .container{   
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+  }
+*/

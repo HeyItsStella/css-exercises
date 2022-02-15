@@ -1,0 +1,19 @@
+p{
+    background-color:rgb(248, 143, 166);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#blue-text{   /**/
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler-class{
+    font-size: 24px;
+}
+
+#green-bg{
+    background-color: rgb(127, 236, 127);
+    font-size: 24px;
+    font-weight:bold;
+}

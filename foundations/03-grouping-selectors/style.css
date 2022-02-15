@@ -1,0 +1,15 @@
+.first,
+.second{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first{
+    color:white;
+    background-color:rgb(97, 97, 212);
+}
+
+.second{
+    color:black;
+    background-color:rgb(255, 98, 25);
+}
